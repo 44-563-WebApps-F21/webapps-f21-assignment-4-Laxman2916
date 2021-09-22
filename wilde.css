@@ -18,8 +18,8 @@
     color: black;
     font: large;
     font-family: 'Times New Roman', Times, serif;
-    text-shadow: 1px 1px orangered;
-    filter: blur(0.5px);
+    text-shadow: 2px 2px orangered;
+    filter: blur(1px);
     border: salmon;
 }
 
