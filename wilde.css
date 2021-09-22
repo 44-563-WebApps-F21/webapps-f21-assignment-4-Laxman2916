@@ -1,0 +1,38 @@
+.stage-direction{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+    background-color:antiquewhite;
+
+}
+.stage-direction:hover{
+    background-color: peru;
+    color: firebrick;
+}
+.name{
+    color: black;
+    font: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*Speech styling*/
+.CAROLINE{
+    color:blue;
+    font: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.HESTER{
+    color: green;
+    font: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.HUNSTANTON{
+    color:red;
+    font: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.GERALD{
+    color: maroon;
+    font: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
