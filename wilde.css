@@ -73,7 +73,7 @@ li{
 li a{
     display: block;
     color: royalblue;
-    padding: 6px;
+    padding: 10px;
     background-color: snow;
 }
 li a:hover{
