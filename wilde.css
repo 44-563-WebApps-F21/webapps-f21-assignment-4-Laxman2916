@@ -59,5 +59,23 @@ tr{
     background-color: green;
 }
 tr:nth-child(even){
-    background-color: lightblue;
+    background-color: rebeccapurple;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: royalblue;
+    padding: 6px;
+    background-color: snow;
+}
+li a:hover{
+    background-color:springgreen;
 }
