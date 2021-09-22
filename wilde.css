@@ -1,7 +1,7 @@
 .stage-direction{
     font-family:'Times New Roman', Times, serif;
     font-size: 15px;
-    color: black;
+    color: olive;
     background-color:antiquewhite;
 
 }
@@ -10,7 +10,7 @@
     color: firebrick;
 }
 .name{
-    color: black;
+    color: yellow;
     font: large;
     font-family: 'Times New Roman', Times, serif;
 }
